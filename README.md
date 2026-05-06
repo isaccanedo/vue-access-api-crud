@@ -1,4 +1,4 @@
-# Instalação
+## Instalação
     > npm install
 
 A API usada neste exemplo é uma API expressa do Node.js
